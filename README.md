@@ -1,2 +1,4 @@
-# OlaMundo
-Primeiro repositorio do curso de GitHub
+# Olá, Mundo!
+Primeiro repositório do curso de GitHub
+
+Repositório criado durante aula do Gustavo Guanabara
